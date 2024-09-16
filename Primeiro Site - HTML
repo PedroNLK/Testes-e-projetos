@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="device-width, initial-scale">
+        <title>Pedro Henrique dos Santos</title>
+        <link rel="stylesheet" href="Site.css"
+        <head>
+        <body>
+            <nav>
+                <ul>
+                 <li>
+                    <a href="Site.html">Sobre mim</a>
+                <li>
+                    <a href="Project.html">Projetos</a>
+                 </li>
+                 <li>
+                    <a href="contact.html"> Contato</a>
+                 </li>
+                    
+                    </ul>
+                </nav>
+                    <header>
+                        <div class="center">
+                            <img src="Imag/Pedro.png" alt="">
+                        </div>
+                        <h1>Pedro Henrique dos Santos</h1>
+                        
+                        <h2> Desenvolvedor de Software</h2>
+
+                        <header>
+                            <main>
+
+                                <section>
+                                    <h3>Sobre mim:
+                                      <p> 
+                                        Lorem ipsum dolor sit amet. Non obcaecati voluptate quo illum consequatur cum molestiae esse 33 magnam quia. Quo repellendus repudiandae et nisi nihil ea amet iste.
+                                        Et quibusdam blanditiis qui esse nisi ut sint voluptates aut doloremque voluptate. Non impedit natus qui excepturi nobis qui magnam esse sit officia ipsum et dignissimos distinctio. Ex quia maiores rem rerum natus sed distinctio labore aut cumque architecto cum omnis autem non recusandae totam?
+                                        Ut laudantium voluptatem est ipsam nesciunt et aliquam velit. Ea quia galisum et dolores magni non unde dolores. Aut aliquam commodi et autem labore in exercitationem quis et galisum sint in illo ipsa sit eligendi tempore ex quod itaque. Ex impedit sint qui ratione aliquid vel rerum commodi et quas odit.
+                                      </p>
+                                    
+                                    <section>
+                                        <h3>Formação:
+                                          <p> 
+                                            Lorem ipsum dolor sit amet. Non obcaecati voluptate quo illum consequatur cum molestiae esse 33 magnam quia. Quo repellendus repudiandae et nisi nihil ea amet iste.
+                                            Et quibusdam blanditiis qui esse nisi ut sint voluptates aut doloremque voluptate. Non impedit natus qui excepturi nobis qui magnam esse sit officia ipsum et dignissimos distinctio. Ex quia maiores rem rerum natus sed distinctio labore aut cumque architecto cum omnis autem non recusandae totam?
+                                            Ut laudantium voluptatem est ipsam nesciunt et aliquam velit. Ea quia galisum et dolores magni non unde dolores. Aut aliquam commodi et autem labore in exercitationem quis et galisum sint in illo ipsa sit eligendi tempore ex quod itaque. Ex impedit sint qui ratione aliquid vel rerum commodi et quas odit.
+                                          </p>
+                                       
+                                        <section>
+                                            <h3>Cursos:
+                                              <p> 
+                                                Lorem ipsum dolor sit amet. Non obcaecati voluptate quo illum consequatur cum molestiae esse 33 magnam quia. Quo repellendus repudiandae et nisi nihil ea amet iste.
+                                                Et quibusdam blanditiis qui esse nisi ut sint voluptates aut doloremque voluptate. Non impedit natus qui excepturi nobis qui magnam esse sit officia ipsum et dignissimos distinctio. Ex quia maiores rem rerum natus sed distinctio labore aut cumque architecto cum omnis autem non recusandae totam?
+                                                Ut laudantium voluptatem est ipsam nesciunt et aliquam velit. Ea quia galisum et dolores magni non unde dolores. Aut aliquam commodi et autem labore in exercitationem quis et galisum sint in illo ipsa sit eligendi tempore ex quod itaque. Ex impedit sint qui ratione aliquid vel rerum commodi et quas odit.
+                                              </p>
+                                            </h3>
+                                        </header>
+                                </section>
+                            </main>
+                            <footer>
+
+                                <a href="https://github.com/PedroNLK" target="_blank" rel="noopener noreferrer">
+                                    <img src="./Imag/GitHub.svg" alt="">
+                                    <p> GitHub</p>
+                                </a>
+                                <a href="https://www.linkedin.com/in/pedro-henrique-dos-santos-2321331a5/" target="_blank" rel="noopener noreferrer">
+                                        <img src="./Imag/Linkedin.svg" alt="">
+                                        <p> Linkedin</p>
+                                    </a>
+                            </footer>
+                        
+                        
+                    
+        </body>
